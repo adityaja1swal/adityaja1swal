@@ -2,7 +2,7 @@
 Hi, I'm Aditya Jaiswal 👋  <br><br>🎓 B.Tech Information Technology Student  <br>💻 Passionate about Web Development  <br>🤖 Building small web projects to strengthen practical skills  <br>📚 Completed Data Structures & Algorithms in C++  <br>🚀 Aspiring Professional Developer  <br><br>I enjoy building real-world projects and transforming ideas into working solutions.  <br>Currently improving my problem-solving skills and exploring new technologies to expand my tech stack.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Leetcode](https://img.shields.io/badge/leetcode-%23ffa116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/aditya_ja1swal/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aditya_ja1swal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-ja1swal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityajaiswalop@gmail.com) 
 
 # 💻 Tech Stack:
